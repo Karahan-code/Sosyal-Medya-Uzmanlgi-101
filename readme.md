@@ -44,7 +44,7 @@ Aşağıda bu rehber kullanılarak oluşturulmuş bazı şablon örneklerini gö
 1.  **Doğrudan Kayıt:** İlgili fotoğraflara sağ tıklayıp `Resmi Farklı Kaydet` diyerek indirebilirsiniz.
 2.  **Kaynak Kod İle (Inspect):** Sağ tıklayıp `İncele (Inspect)` diyerek sitenin kaynak kodlarından görsel linkini bulabilirsiniz.
 
-> [!Uyarı]
+> [!WARNING]
 > Bazı web sitelerinin logoları veya görselleri tamamen kodlarla (CSS) yapılmış olabilir. Bu durumda görsel olarak indirme yapılamaz, ekran görüntüsü veya SVG export gerekebilir.
 
 <div align="center">
@@ -181,3 +181,18 @@ Reels ve TikTok için çalışma alanı ayarları şöyledir:
 
 > [!NOTE]
 > Video düzenleme programı konusunda illaki **After Efects** kullanmak zorunda değilsiniz. Size uygun kullanması basit bir program, işinizi fazlasıyla görecektir. Örneğin **Movavi**, **Sony Vegas Pro** aklıma ilk gelenler.
+
+
+---
+
+## 🎬 Bölüm 8: Video ve Reels Kurgusu
+
+> [!CAUTION]
+> **🚧 Bu Bölüm Yapım Aşamasındadır**
+>
+> Video içerikleri artık fotoğraflardan daha fazla erişim alıyor. Çok yakında buraya;
+> * **After Effects & Premiere Pro** entegrasyonu,
+> * Viral Reels videoları için 9:16 kurgu mantığı,
+> * Müzik senkronizasyonu ve "Safe Zone" (Güvenli Alan) ayarları eklenecektir.
+>
+> Takipte kalın!
