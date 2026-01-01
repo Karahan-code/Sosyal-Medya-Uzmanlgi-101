@@ -125,13 +125,22 @@ Her indirdiğiniz görseli ticari bir işte (bir müşterinin hesabında) kullan
 > [!IMPORTANT]
 > **Creative Commons (CC0)** lisansına sahip görselleri rahatça kullanabilirsiniz. Ancak Freepik gibi sitelerde "Attribution Required" (Atıf Gerekli) uyarısı varsa veya "Premium" lisanslıysa, lisansını satın almadan ticari kullanımı başınızı ağrıtabilir.
 
-## 📂 Örnek Hazır Aset Çalışmaları
+## 🔄 Aset Dönüşüm Tablosu (Öncesi & Sonrası)
 
-<div align="center">
-  <img src="hazır-asetler/deneme 5.jpg" width="200" />
-  <img src="hazır-asetler/deneme 6.jpg" width="200" />
-  <img src="hazır-asetler/deneme 7.jpg" width="200" />
-</div>
+Aşağıdaki tabloda, internetten bulunan ham stok görsellerin (sol) tarafımdan nasıl düzenlenerek nihai sosyal medya tasarımına (sağ) dönüştürüldüğü gösterilmektedir.
+
+| 📂 Kaynak Dosya (Ham Aset) | 🎨 Benim Tasarımım (Final Hali) |
+| :---: | :---: |
+| **Örnek 1: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
+| <img src="hazır-asetler/şablonlar/şablon 5.jpg" width="400" alt="Ham Görsel 1"> | <img src="hazır-asetler/deneme 5.jpg" width="400" alt="Biten Tasarım 1"> |
+| **Örnek 2: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
+| <img src="hazır-asetler/şablonlar/şablon 6.jpg" width="400" alt="Ham Görsel 2"> | <img src="hazır-asetler/deneme 6.jpg" width="400" alt="Biten Tasarım 2"> |
+| **Örnek 3: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
+| <img src="hazır-asetler/şablonlar/şablon 7.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 7.jpg" width="400" alt="Biten Tasarım 3"> |
+
+
+> [!NOTE]
+> Soldaki görseller **Freepik/Unsplash** kaynaklı ham materyallerdir. Sağdaki tasarımlarda benim yaptığım renk düzeltme, tipografi, dekupe ve kompozisyon işlemleri uygulanmıştır.
 
 ---
 
