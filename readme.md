@@ -33,6 +33,8 @@ Aşağıda bu rehber kullanılarak oluşturulmuş bazı şablon örneklerini gö
   <img src="hazır-asetler/deneme 5.jpg" width="200" />
   <img src="hazır-asetler/deneme 6.jpg" width="200" />
   <img src="hazır-asetler/deneme 7.jpg" width="200" />
+  <img src="hazır-asetler/deneme 8.jpg" width="200" />
+  <img src="hazır-asetler/deneme 12.jpg" width="200" />
 </div>
 
 ---
@@ -133,10 +135,10 @@ Aşağıdaki tabloda, internetten bulunan ham stok görsellerin (sol) tarafımda
 | :---: | :---: |
 | **Örnek 1: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
 | <img src="hazır-asetler/şablonlar/şablon 5.jpg" width="400" alt="Ham Görsel 1"> | <img src="hazır-asetler/deneme 5.jpg" width="400" alt="Biten Tasarım 1"> |
-| **Örnek 2: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
 | <img src="hazır-asetler/şablonlar/şablon 6.jpg" width="400" alt="Ham Görsel 2"> | <img src="hazır-asetler/deneme 6.jpg" width="400" alt="Biten Tasarım 2"> |
-| **Örnek 3: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
 | <img src="hazır-asetler/şablonlar/şablon 7.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 7.jpg" width="400" alt="Biten Tasarım 3"> |
+| <img src="hazır-asetler/şablonlar/şablon 8.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 8.jpg" width="400" alt="Biten Tasarım 3"> |
+| <img src="hazır-asetler/şablonlar/şablon 12.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 12.jpg" width="400" alt="Biten Tasarım 3"> |
 
 
 > [!NOTE]
@@ -181,18 +183,3 @@ Reels ve TikTok için çalışma alanı ayarları şöyledir:
 
 > [!NOTE]
 > Video düzenleme programı konusunda illaki **After Efects** kullanmak zorunda değilsiniz. Size uygun kullanması basit bir program, işinizi fazlasıyla görecektir. Örneğin **Movavi**, **Sony Vegas Pro** aklıma ilk gelenler.
-
-
----
-
-## 🎬 Bölüm 8: Video ve Reels Kurgusu
-
-> [!CAUTION]
-> **🚧 Bu Bölüm Yapım Aşamasındadır**
->
-> Video içerikleri artık fotoğraflardan daha fazla erişim alıyor. Çok yakında buraya;
-> * **After Effects & Premiere Pro** entegrasyonu,
-> * Viral Reels videoları için 9:16 kurgu mantığı,
-> * Müzik senkronizasyonu ve "Safe Zone" (Güvenli Alan) ayarları eklenecektir.
->
-> Takipte kalın!
