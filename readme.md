@@ -26,13 +26,13 @@ Bu rehber, sosyal medya uzmanlığı yolunda görsel tasarım süreçlerini, tek
 Aşağıda bu rehber kullanılarak oluşturulmuş bazı şablon örneklerini görebilirsiniz:
 
 <div align="center">
-  <img src="bitmiş-tasarımlar/şablondeneme4 kopya.jpg" width="200" />
-  <img src="bitmiş-tasarımlar/şablondeneme3 kopya.jpg" width="200" />
-  <img src="bitmiş-tasarımlar/şablondeneme2 kopya.jpg" width="200" />
-  <img src="bitmiş-tasarımlar/şablondeneme1 kopya.png" width="200" />
+  <img src="hazır-asetler/deneme 19.jpg" width="200" />
+  <img src="hazır-asetler/deneme 18.jpg" width="200" />
+  <img src="hazır-asetler/deneme 17.jpg" width="200" />
+  <img src="hazır-asetler/deneme 16.jpg" width="200" />
   <img src="hazır-asetler/deneme 5.jpg" width="200" />
   <img src="hazır-asetler/deneme 6.jpg" width="200" />
-  <img src="hazır-asetler/deneme 7.jpg" width="200" />
+  <img src="hazır-asetler/deneme 14.jpg" width="200" />
   <img src="hazır-asetler/deneme 8.jpg" width="200" />
   <img src="hazır-asetler/deneme 12.jpg" width="200" />
 </div>
@@ -136,9 +136,9 @@ Aşağıdaki tabloda, internetten bulunan ham stok görsellerin (sol) tarafımda
 | **Örnek 1: Konsept Aşaması** | **Sonuç: Yayına Hazır** |
 | <img src="hazır-asetler/şablonlar/şablon 5.jpg" width="400" alt="Ham Görsel 1"> | <img src="hazır-asetler/deneme 5.jpg" width="400" alt="Biten Tasarım 1"> |
 | <img src="hazır-asetler/şablonlar/şablon 6.jpg" width="400" alt="Ham Görsel 2"> | <img src="hazır-asetler/deneme 6.jpg" width="400" alt="Biten Tasarım 2"> |
-| <img src="hazır-asetler/şablonlar/şablon 7.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 7.jpg" width="400" alt="Biten Tasarım 3"> |
-| <img src="hazır-asetler/şablonlar/şablon 8.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 8.jpg" width="400" alt="Biten Tasarım 3"> |
-| <img src="hazır-asetler/şablonlar/şablon 12.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 12.jpg" width="400" alt="Biten Tasarım 3"> |
+| <img src="hazır-asetler/şablonlar/şablon 19.jpg" width="400" alt="Ham Görsel 3"> | <img src="hazır-asetler/deneme 19.jpg" width="400" alt="Biten Tasarım 3"> |
+| <img src="hazır-asetler/şablonlar/şablon 8.jpg" width="400" alt="Ham Görsel 4"> | <img src="hazır-asetler/deneme 8.jpg" width="400" alt="Biten Tasarım 4"> |
+| <img src="hazır-asetler/şablonlar/şablon 12.jpg" width="400" alt="Ham Görsel 5"> | <img src="hazır-asetler/deneme 12.jpg" width="400" alt="Biten Tasarım 5"> |
 
 
 > [!NOTE]
@@ -163,7 +163,24 @@ Tasarımı sadece "jpeg" olarak atmak yerine, instagram gönderisi şeklinde nas
 
 ---
 
-## 🎬 Bölüm 6: Video ve Reels İçerikleri (After Effects & Premiere)
+## 📲 Bölüm 6: Ürün Fotoğraflarınızın Kalitesini arttırın (İmage Upscaler)
+
+Web sitesinden indirdiğiniz ürünlerin fotoğrafları çoğu zaman yüksek çözünürlükte ve kalitede olmayabilir. Bu şekilde kullanmak aşağıdaki gibi kötü bir sonuç verebilir.
+
+<div align="center">
+  <img src="readme-foto/8.png" width="600" alt="Image Upscaler">
+</div>
+
+**Nasıl Yapılır?**
+1.  **www.upscale.media** adresine gidin. 
+2.  Fotoğrafınızı yükleyin ve 2x veya 4x boyutunu seçin.
+3.  Yenilenen fotoyu indirin.
+
+Bu kadar basit...
+
+---
+
+## 🎬 Bölüm 7: Video ve Reels İçerikleri (After Effects & Premiere)
 
 Instagram algoritması artık videoları (Reels) fotoğraflardan daha fazla öne çıkarıyor.
 
